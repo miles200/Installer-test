@@ -6,19 +6,19 @@
   <Name>segs.all</Name>
   <DisplayName>SEGS_0_7_0</DisplayName>
   <Description>SEGS 0.7.0</Description>
-  <Version>0.7.0</Version>
+  <Version>0.7.1</Version>
   <ReleaseDate>2019-01-18</ReleaseDate>
   <Script>createshortcut.qs</Script>
   <DownloadableArchives>SEGS_0_7_0.7z</DownloadableArchives>
-  <UpdateText>Release 0.7.0</UpdateText>
+  <UpdateText>Release 0.7.1</UpdateText>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Essential>false</Essential>
   <RequiresAdminRights>false</RequiresAdminRights>
   <UpdateFile CompressedSize="34807338" UncompressedSize="175892975" OS="Any"/>
   <Licenses>
-   <License name="License Agreement" file="license.txt"/>
+   <License file="license.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>d257b84503a910b11b86500ae21c5966b53d0f2c</SHA1>
+  <SHA1>f4641c85aa391438e9f8b5122e185401bbe5c90b</SHA1>
  </PackageUpdate>
 </Updates>
